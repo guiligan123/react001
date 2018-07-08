@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">Bienvenido</h1>
         </header>
         <p className="App-intro">
-          Para iniciar, edit <code>src/App.js</code> and save to reload.
+          Para iniciar, editando mucho <code>src/App.js</code> and save to reload.
         </p>
       </div>
     );
